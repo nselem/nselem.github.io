@@ -1,4 +1,4 @@
 
 [EvoMining](http://148.247.230.39/newevomining/new/evomining_web/index.html)  
-[Clonar Ejemplo de CORASON](gitclone https://github.com/nselem/nselem.github.io.git)  
-[Corason Wiki](https://github.com/nselem/EvoDivMet/wiki)  
+Clonar Ejemplo de CORASON `gitclone https://github.com/nselem/nselem.github.io.git`  
+[Corason Wiki](https://github.com/nselem/EvoDivMet/wiki)  
